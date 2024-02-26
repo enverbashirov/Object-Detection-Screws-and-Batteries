@@ -1,0 +1,7 @@
+# path: /
+train: [../batteries/train/images, ../screws/train/images]
+val: [../batteries/valid/images, ../screws/valid/images]
+test: [../batteries/test/images, ../screws/test/images]
+
+nc: 7
+names: ['Automotive Battery', 'Bike Battery', 'Dry Cell', 'Laptop Battery', 'Smartphone Battery', 'Hole', 'Screw']

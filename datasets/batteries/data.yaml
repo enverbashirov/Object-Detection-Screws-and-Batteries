@@ -1,0 +1,14 @@
+path: batteries/
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['Automotive Battery', 'Bike Battery', 'Dry Cell', 'Laptop Battery', 'Smartphone Battery']
+
+roboflow:
+  workspace: project-tics-ylrlr
+  project: battery-detection-sszwf
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project-tics-ylrlr/battery-detection-sszwf/dataset/7

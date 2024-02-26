@@ -1,0 +1,14 @@
+path: screws/
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Hole', 'Screw']
+
+roboflow:
+  workspace: university-of-limerick
+  project: screw_detection-ccbng
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/university-of-limerick/screw_detection-ccbng/dataset/4
