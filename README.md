@@ -1,6 +1,6 @@
 # A *Computer Vision* case study: Screws and Batteries
 ##### Predictions
-<img src="https://github.com/enverbashirov/Object-Detection-Screws-and-Batteries/blob/master/results/combined/screws.jpg?raw=true" width="420"/> <img src="https://github.com/enverbashirov/Object-Detection-Screws-and-Batteries/blob/master/results/combined/batteries.jpg?raw=true" width="420"/>
+<img src="https://github.com/enverbashirov/Object-Detection-Screws-and-Batteries/blob/master/results/combined/screws.jpg?raw=true" width="640"/> <img src="https://github.com/enverbashirov/Object-Detection-Screws-and-Batteries/blob/master/results/combined/batteries.jpg?raw=true" width="640"/>
 
 #### Coding Challenge: Simulating Computer Vision for Autonomous Battery Disassembly
 The task required here was to detect the **screws** and **batteries** in the given two sample images. For the simplicity, first image with the container having a closed lid and the second image with the batteries displayed are called `screws.jpg` and `batteries.png` respectively. The *Object Detection* using Neural Network approach has been chosen for this specific task. Furthermore, *YOLOv8* has been used to perform the detection. Two separate models have been trained with two different datasets for the purpose of identifying screws and batteries. Thus, the two objects were detected separately.
