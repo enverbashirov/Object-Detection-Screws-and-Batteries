@@ -1,6 +1,6 @@
 
 # *Circu Li-ion* Case Study for *Computer Vision* role
-##### | -------------------  Screws.jpg  ---------------------- | --------------------  Battery.png  -------------------- |
+##### Object Detection on the given images
 <img src="https://github.com/enverbashirov/Object-Detection-Screws-and-Batteries/blob/master/results/combined/screws.jpg?raw=true" width="480"/> <img src="https://github.com/enverbashirov/Object-Detection-Screws-and-Batteries/blob/master/results/combined/batteries.jpg?raw=true" width="480"/>
 
 #### Coding Challenge: Simulating Computer Vision for Autonomous Battery Disassembly
